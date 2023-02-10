@@ -18,8 +18,13 @@ Live search
 Account setting
 Picture and Youtube embedded video uploads
 trending words calculation etc.
+
 **********************************************************************************************************
-Installation: clone the reposiroty, create a directory with a name of your choice in /htdocs and extract the zip file
+                                              INSTALLATION:
+**********************************************************************************************************
+
+
+clone the reposiroty, create a directory with a name of your choice in /htdocs and extract the zip file
 Import the sql databse file after creationg a db named: xalat
 Go to Browser, acceess to localhost:[PORT 80 by default or another port]/directory_name
 
